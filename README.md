@@ -6,7 +6,7 @@
 ## About me 
 - I started programming 8 years ago
 - I am 20 years old. [as of 24-07-2021]
-- 
+
 ## Interests
 
 - 💻 Software Development
